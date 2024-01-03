@@ -1,0 +1,9 @@
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\bin\Debug\CPresentacion.exe.config
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\bin\Debug\CPresentacion.exe
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\bin\Debug\CPresentacion.pdb
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.Properties.Resources.resources
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.exe
+C:\Users\Ruben\Desktop\FERR\CPresentacion\CPresentacion\obj\Debug\CPresentacion.pdb
