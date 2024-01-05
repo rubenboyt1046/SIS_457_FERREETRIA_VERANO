@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace CPresentacion
 {
-    public partial class Principal : Form
+    public partial class Login : Form
     {
-        public Principal()
+        public Login()
         {
             InitializeComponent();
-        }
-
-        private void btnEmpleados_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
