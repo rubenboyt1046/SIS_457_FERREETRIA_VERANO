@@ -72,14 +72,14 @@
             // 
             // txtClave
             // 
-            this.txtClave.Location = new System.Drawing.Point(101, 152);
+            this.txtClave.Location = new System.Drawing.Point(170, 144);
             this.txtClave.Name = "txtClave";
             this.txtClave.Size = new System.Drawing.Size(141, 20);
             this.txtClave.TabIndex = 9;
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(101, 83);
+            this.txtUsuario.Location = new System.Drawing.Point(170, 75);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(141, 20);
             this.txtUsuario.TabIndex = 8;
@@ -88,8 +88,8 @@
             // 
             this.lblClave.AutoSize = true;
             this.lblClave.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblClave.ForeColor = System.Drawing.Color.White;
-            this.lblClave.Location = new System.Drawing.Point(98, 121);
+            this.lblClave.ForeColor = System.Drawing.Color.Black;
+            this.lblClave.Location = new System.Drawing.Point(167, 113);
             this.lblClave.Name = "lblClave";
             this.lblClave.Size = new System.Drawing.Size(79, 18);
             this.lblClave.TabIndex = 7;
@@ -99,8 +99,8 @@
             // 
             this.lblUsuario.AutoSize = true;
             this.lblUsuario.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblUsuario.Location = new System.Drawing.Point(98, 61);
+            this.lblUsuario.ForeColor = System.Drawing.Color.Black;
+            this.lblUsuario.Location = new System.Drawing.Point(167, 53);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(59, 18);
             this.lblUsuario.TabIndex = 6;
@@ -110,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gray;
+            this.BackColor = System.Drawing.Color.Yellow;
             this.ClientSize = new System.Drawing.Size(348, 342);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnIngresar);
